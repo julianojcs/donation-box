@@ -31,11 +31,11 @@ As we were all children at one time, it is very likely that we have a toy at hom
 
     Below is an example:
 
-    > **Name**: Toy name: Mermaid Barbie
-    **Status**: Used
-    **Donor name**: Joaquim de Oliveira
-    **Address**: Avenida Lins de Vasconcelos, 5000
-    **Phone**: (00) 0000-0000
+    - **Name**: Toy name: Mermaid Barbie
+    - **Status**: Used
+    - **Donor name**: Joaquim de Oliveira
+    - **Address**: Avenida Lins de Vasconcelos, 5000
+    - **Phone**: (00) 0000-0000
 
 7) From this screen, he can return to the List screen or change the toy's data;
 
